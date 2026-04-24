@@ -1,0 +1,6 @@
+{
+  "name": "Aether AI",
+  "description": "An elite multimodal synthesis chamber with advanced reasoning, recursive knowledge mapping, and quantum stability monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Multimodal Chat", "Knowledge Workspace", "Visual Synthesis"]
+}
